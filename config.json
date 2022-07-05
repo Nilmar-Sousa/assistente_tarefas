@@ -1,0 +1,25 @@
+{
+    "nome": "assistente",
+    "acoes": [
+        {
+            "nome": "ativar",
+            "objetos": [
+                "internet",
+                "roteador"
+            ]
+        },
+        {
+            "nome": "desativar",
+            "objetos": [
+                "internet",
+                "roteador"
+            ]
+        },
+        {
+            "nome": "agendar",
+            "objetos": [
+                "alarme"
+            ]
+        }
+    ]
+}
